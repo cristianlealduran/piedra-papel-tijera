@@ -1,4 +1,4 @@
-# primero se crean los objetos que serán escrito en el codigo cuando se ejecute
+# primero se crean los objetos que serán escrito en el codigo cuando se ejecute como respuesta, es por esto que hay que abrir el "ruby piedrapapeldijera.rb" y colocar una de las siguentes opciones:
 opciones = ["piedra", "papel", "tijera"]
 
 # encontré este metodo en internet, porque con rand no logré configurar de la misma forma
